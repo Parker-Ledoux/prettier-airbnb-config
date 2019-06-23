@@ -1,0 +1,24 @@
+{
+  "name": "prettier-airbnb-config",
+  "version": "1.0.0",
+  "description": "A Prettier configuration based off the Airbnb JavaScript style guide",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Parker-Ledoux/prettier-airbnb-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "airbnb",
+    "config"
+  ],
+  "author": "Parker Ledoux",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Parker-Ledoux/prettier-airbnb-config/issues"
+  },
+  "homepage": "https://github.com/Parker-Ledoux/prettier-airbnb-config#readme",
+  "peerDependencies": {
+    "prettier": "^1.18.2"
+  }
+}
